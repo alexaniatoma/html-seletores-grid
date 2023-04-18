@@ -1,0 +1,31 @@
+.container-grid {
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 2px;
+    
+}
+
+.container-grid, div {
+    padding: 50px;
+}
+
+#canto {
+    border: 2px solid black;
+
+}
+.vermelho {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color:darkgreen;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
